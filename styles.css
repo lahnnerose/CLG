@@ -1,9 +1,9 @@
+/* Two divs with different IDs */
 #section-1 {
     background-color: palevioletred;
-
-
 }
 
+/* An image with background styling in CSS */
 #section-2 {
     background: lightblue url(./images/BG\ check.png) repeat;
     background-size: 100px;
@@ -16,11 +16,14 @@
     background-size: 100px;
 }
 
+/* A class attribute (e.g. on a word or section) used at least twice */
+/* Styling in CSS for your class attribute */
 .special-paragraph {
     color: blueviolet;
 
 }
 
+/* Optional: add a span to a letter, word, or phrase and style it in CSS */
 span#DivsHeader {
     color: paleturquoise;
 }
