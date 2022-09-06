@@ -1,0 +1,30 @@
+#section-1 {
+    background-color: palevioletred;
+
+
+}
+
+#section-2 {
+    background: lightblue url(./images/BG\ check.png) repeat;
+    background-size: 100px;
+    background-repeat: repeat;
+    background-position: center;
+}
+
+#section-3 {
+    background: bisque url(./images/BG\ check.png) repeat;
+    background-size: 100px;
+}
+
+.special-paragraph {
+    color: blueviolet;
+
+}
+
+span#DivsHeader {
+    color: paleturquoise;
+}
+
+span#SpanHeader {
+    color: palevioletred;
+}
